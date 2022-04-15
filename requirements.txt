@@ -4,7 +4,6 @@ astroid==2.4.2
 astunparse==1.6.3
 attrs==20.3.0
 autopep8==1.5.4
-backports.zoneinfo==0.2.1
 beautifulsoup4==4.9.3
 bidict==0.22.0
 cachetools==4.1.1
@@ -18,7 +17,6 @@ click==7.1.2
 colorama==0.4.4
 comtypes==1.1.7
 cycler==0.11.0
-cymem==2.0.3
 decorator==4.4.2
 Django==4.0.4
 django-cors-headers==3.5.0
@@ -123,7 +121,6 @@ soupsieve==2.0.1
 SpeechRecognition==3.8.1
 SQLAlchemy==1.2.19
 sqlparse==0.4.2
-srsly==1.0.2
 tensorflow==2.8.0
 tensorflow-estimator==2.7.0
 tensorflow-io-gcs-filesystem==0.23.1
@@ -144,7 +141,6 @@ wincertstore==0.2
 winshell==0.6
 wolframalpha==4.1.1
 wrapt==1.12.1
-wxPython==4.1.1
 xml-python==0.3.5
 xmltodict==0.12.0
 zipp==3.1.0
