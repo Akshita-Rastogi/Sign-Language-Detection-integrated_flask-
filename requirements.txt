@@ -116,7 +116,6 @@ qt5-applications==5.15.2.2.1
 qt5-tools==5.15.2.1.0.1
 ratelim==0.1.6
 regex==2020.1.7
-requests==2.25.0
 requests-oauthlib==1.3.0
 rsa==4.6
 scikit-learn==1.0.2
