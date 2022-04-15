@@ -60,7 +60,6 @@ jaraco.context==4.1.1
 Jinja2==2.11.2
 joblib==0.15.1
 Js2Py==0.71
-keras==2.7.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.2
 lazy-object-proxy==1.4.3
